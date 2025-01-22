@@ -26,7 +26,7 @@ for (let i = 0; i < 10; i++) {
             // aggiungo l'email all'array
             arrayEmail.push(email);
 
-    
+        
 
             emailResult += `
             <li id="output">${email}</li>
